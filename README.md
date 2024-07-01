@@ -16,5 +16,3 @@ Key Features:
 Get started with Symfony development quickly by cloning this repository, setting up your environment variables, and running a single command to spin up the Docker containers. Focus on building your application logic without the hassle of configuring the development environment from scratch.
 
 Please refer to the repository for detailed documentation, installation instructions, and additional customization options. Contributions and feedback are welcome to enhance this Dockerized Symfony startup project and make it more versatile for various development needs."
-
-Note: Modify the description as needed to accurately reflect the specific details and features of your GitHub project.
